@@ -5,16 +5,6 @@ import { Toaster } from 'sonner';
 
 const inter = Inter({ subsets: ['latin'] });
 
-// export const metadata: Metadata = {
-//   title: 'Kirill Novak - Fullstack Developer',
-//   description: 'Personal website of Kirill Novak, a Fullstack Developer specializing in TypeScript, React, and Node.js',
-//   icons: [
-//     {
-//       rel: 'icon',
-//       url: '/favicon.ico',
-//     },
-//   ],
-// };
 export const metadata: Metadata = {
   title: 'Kirill Novak - Fullstack Developer',
   description: 'Personal website of Kirill Novak, a Fullstack Developer specializing in TypeScript, React, and Node.js',
