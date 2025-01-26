@@ -1,29 +1,3 @@
-// import { LocaleContent } from '../types';
-
-// export const ru: LocaleContent = {
-//   name: 'Кирилл Новак',
-//   role: 'Фулстэк JS разработчик (Frontend 70% / Backend 30%)',
-//   phone: '053-2410720',
-//   email: 'novak.kirill@gmail.com',
-//   residence: 'Центральный округ (Мерказ)',
-//   languages: 'иврит, английский (свободно), русский, украинский',
-//   summary: 'Опытный Fullstack разработчик с более чем 7-летним опытом работы с TypeScript, JavaScript, React, Node.js и React Native. Имею успешный опыт создания масштабируемых веб-приложений и ведения фронтенд проектов. Ищу интересную роль в динамичной организации, чтобы развивать свои навыки и профессионально расти.',
-//   skills: {
-//     title: 'НАВЫКИ',
-//     items: [
-//       'Целевые роли: Frontend (React) с элементами Backend (Node.js) и/или Mobile (React-Native)',
-//       'Языки программирования: TypeScript, JavaScript (включая Flow), Java (знаком), C# (знаком), Rust (знаком)',
-//       'Веб/Мобильная разработка: React, HTML5, CSS3, SCSS, Bootstrap, React Native, RXjs, Next.js, Angular (знаком), Vue (знаком)',
-//       'Backend: Node.js, Express',
-//       'Технологии: Redux, Zustand, Git, WebPack, Vite, Single-SPA, Jest, Cypress, MUI, Styled-components',
-//       'Веб-сервисы: REST, GraphQL, gRPC (знаком)',
-//       'Среды разработки: WebStorm, VScode, GitHub, GitLab',
-//       'Базы данных: MySQL, MongoDB'
-//     ]
-//   },
-//   // Add other sections similarly
-// };
-
 import { LocaleContent } from '../types';
 
 export const ru: LocaleContent = {
